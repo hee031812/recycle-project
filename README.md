@@ -1,11 +1,12 @@
 # 분리의 신(God of Segregation)
-<img width="20%" src="[https://github.com/hee031812/recycle-project/blob/main/%EB%B6%84%EB%A6%AC%EC%9D%98%20%EC%8B%A0.png?raw=true"/>
+<img width="20%" src="https://github.com/hee031812/recycle-project/blob/main/assets/img/logo2.jpg?raw=true"/>
+
 
 
 ## 🖥️ 프로젝트 소개
 분리의신은 일상 생활 속에서 발생하는 잘못된 분리배출을 알려주고, 간편한 검색을 통해 올바른 배출 방법을 안내하는 웹사이트입니다.
 <br>
-<div align="center"><img style="border-radius:15px" width="100%" src="https://github.com/audgns722/recycle-project/blob/main/recycleGodIntroImg.png?raw=true"/></div>
+<div align="center"><img style="border-radius:15px" width="100%" src="https://github.com/hee031812/recycle-project/blob/main/%EB%B6%84%EB%A6%AC%EC%9D%98%20%EC%8B%A0.png?raw=true"/></div>
 
  ### [사이트 바로가기📎](http://hee031812.dothome.co.kr/teamplemain/firstmain.php)
  ### [INDEX 바로가기📎](http://hee031812.dothome.co.kr/teamplemain/index.html)
